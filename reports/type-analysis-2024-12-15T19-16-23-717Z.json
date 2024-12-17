@@ -1,0 +1,154 @@
+{
+  "timestamp": "2024-12-15T19:16:23.717Z",
+  "summary": {
+    "totalFiles": 13,
+    "totalErrors": 0,
+    "totalWarnings": 1,
+    "typeMetrics": {
+      "looseCasts": 0,
+      "implicitAny": 0,
+      "unnecessaryTypeAssertions": 1
+    }
+  },
+  "fileResults": [
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/utils/typescript-diagnostics.ts",
+      "filePath": "src\\utils\\typescript-diagnostics.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/cli/run-diagnostics.ts",
+      "filePath": "src\\cli\\run-diagnostics.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/cli/setup-assistant.ts",
+      "filePath": "src\\cli\\setup-assistant.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/cli/test-generator-cli.ts",
+      "filePath": "src\\cli\\test-generator-cli.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/metadata/types.ts",
+      "filePath": "src\\metadata\\types.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/metadata/store.ts",
+      "filePath": "src\\metadata\\store.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/context/context-sync.ts",
+      "filePath": "src\\context\\context-sync.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/context/dev-context-collector.ts",
+      "filePath": "src\\context\\dev-context-collector.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/context/dev-context-helpers.ts",
+      "filePath": "src\\context\\dev-context-helpers.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/environment/environment-checker.ts",
+      "filePath": "src\\environment\\environment-checker.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/environment/environment-validator.ts",
+      "filePath": "src\\environment\\environment-validator.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/testing/test-generator.ts",
+      "filePath": "src\\testing\\test-generator.ts",
+      "errors": [
+        {
+          "line": 58,
+          "column": 24,
+          "message": "Unnecessary type assertion",
+          "code": 2352,
+          "severity": "warning",
+          "suggestedFix": "Remove type assertion to any"
+        }
+      ],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 1
+      }
+    },
+    {
+      "file": "C:/Users/pvmal/ai_dev_pipeline/src/utils/type-validator.ts",
+      "filePath": "src\\utils\\type-validator.ts",
+      "errors": [],
+      "typeInfo": {
+        "looseCasts": 0,
+        "implicitAny": 0,
+        "unnecessaryTypeAssertions": 0
+      }
+    }
+  ]
+}

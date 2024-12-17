@@ -1,0 +1,40 @@
+{
+    "timestamp":  "2024-12-16T00:13:08.5299637-07:00",
+    "project":  {
+                    "root":  "C:\\Users\\pvmal\\ai_dev_pipeline",
+                    "hasGit":  false,
+                    "hasTsConfig":  true,
+                    "hasPackageJson":  true
+                },
+    "system":  {
+                   "SystemPageSize":  4096,
+                   "PSExecutablePath":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                   "Architecture":  "AMD64",
+                   "UserName":  "PVMalauulu",
+                   "ComputerName":  "VALENTINO",
+                   "WorkingDirectory":  "C:\\Users\\pvmal\\ai_dev_pipeline",
+                   "OS":  "Microsoft Windows NT 10.0.26100.0",
+                   "EnvironmentVariables":  {
+                                                "TEMP":  "C:\\Users\\pvmal\\AppData\\Local\\Temp",
+                                                "TMP":  "C:\\Users\\pvmal\\AppData\\Local\\Temp",
+                                                "PATH":  "C:\\ProgramData\\anaconda3\\condabin;C:\\ProgramData\\anaconda3\\condabin;C:\\ProgramData\\chocolatey\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files\\nodejs;C:\\Program Files\\Git\\bin;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\mingw64\\bin\\git.exe;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\";C:\\Program Files\\PostgreSQL\\psqlODBC\\bin",
+                                                "ProgramFiles(x86)":  "C:\\Program Files (x86)",
+                                                "COMPUTERNAME":  "VALENTINO",
+                                                "USERPROFILE":  "C:\\Users\\pvmal",
+                                                "USERNAME":  "PVMalauulu",
+                                                "ProgramFiles":  "C:\\Program Files",
+                                                "APPDATA":  "C:\\Users\\pvmal\\AppData\\Roaming",
+                                                "LOCALAPPDATA":  "C:\\Users\\pvmal\\AppData\\Local",
+                                                "SystemRoot":  "C:\\WINDOWS"
+                                            },
+                   "ProcessorCount":  16,
+                   "PowerShell":  "5.1.26100.2161",
+                   "SystemDirectory":  "C:\\WINDOWS\\system32",
+                   "UserDomain":  "VALENTINO"
+               },
+    "capabilities":  {
+                         "isAdmin":  true,
+                         "hasInternet":  true,
+                         "canWriteToUserProfile":  true
+                     }
+}

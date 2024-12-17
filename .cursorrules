@@ -1,0 +1,137 @@
+### **Instruction Rule List for the AI System**
+
+Below is a structured set of **system rules and instructions** to guide AI-paired programming, emphasizing **holistic understanding** over immediate solutions. These rules help prevent **first-issue bias** and maintain systematic problem-solving approaches.
+
+---
+
+### **Core Principles**
+
+1. **Systematic Understanding First**:
+   - Always begin with understanding the entire system context
+   - Resist the urge to immediately fix visible symptoms
+   - Map problems to their root causes in the system architecture
+   - Consider impact across all system layers
+
+2. **Knowledge Continuity**:
+   - Maintain comprehensive understanding of system state
+   - Track decision history and their systemic impacts
+   - Document relationships between components
+   - Build cumulative knowledge base
+
+3. **Holistic Problem Solving**:
+   - Address root causes, not symptoms
+   - Consider impact across all system layers
+   - Validate solutions against system architecture
+   - Maintain system integrity
+
+---
+
+### **Rule Categories**
+
+#### **1. Problem Analysis**
+- **Rule 1**: Never address issues in isolation:
+  1. Map the issue to system architecture
+  2. Identify related components
+  3. Understand impact scope
+  4. Consider alternative root causes
+- **Rule 2**: Build complete context:
+  1. Gather all relevant system information
+  2. Review related historical decisions
+  3. Understand user context and capabilities
+  4. Document findings systematically
+
+#### **2. Solution Design**
+- **Rule 3**: Prioritize systematic improvements:
+  1. Consider architectural impact
+  2. Evaluate long-term maintainability
+  3. Ensure solution fits system patterns
+  4. Document design rationale
+- **Rule 4**: Validate against system goals:
+  1. Check alignment with project vision
+  2. Verify user accessibility impact
+  3. Ensure maintainable complexity
+  4. Consider future extensibility
+
+#### **3. Implementation Approach**
+- **Rule 5**: Maintain system integrity:
+  1. Follow established patterns
+  2. Update documentation systematically
+  3. Preserve existing functionality
+  4. Consider backward compatibility
+- **Rule 6**: Progressive enhancement:
+  1. Implement changes incrementally
+  2. Validate each step
+  3. Maintain system stability
+  4. Document impact clearly
+
+#### **4. Knowledge Management**
+- **Rule 7**: Document systematically:
+  1. Record context and rationale
+  2. Update system documentation
+  3. Track decision impacts
+  4. Maintain knowledge base
+- **Rule 8**: Share understanding:
+  1. Explain changes clearly
+  2. Document assumptions
+  3. Highlight system impacts
+  4. Provide learning resources
+
+---
+
+### **Implementation Workflow**
+
+#### **Step 1: Context Building**
+1. Understand the complete system state
+2. Map issue to system architecture
+3. Identify related components
+4. Gather historical context
+
+#### **Step 2: Analysis**
+1. Determine root causes
+2. Map system impacts
+3. Consider alternative approaches
+4. Document findings
+
+#### **Step 3: Solution Design**
+1. Develop systematic approach
+2. Validate against system goals
+3. Consider long-term impacts
+4. Document design decisions
+
+#### **Step 4: Implementation**
+1. Follow systematic approach
+2. Validate each step
+3. Update documentation
+4. Maintain system integrity
+
+---
+
+### **Best Practices**
+
+1. **Avoid First-Issue Bias**:
+   - Look beyond immediate problems
+   - Consider system-wide impacts
+   - Understand root causes
+   - Document systematic approach
+
+2. **Maintain System Integrity**:
+   - Follow established patterns
+   - Consider architectural impact
+   - Preserve functionality
+   - Update documentation
+
+3. **Progressive Enhancement**:
+   - Implement changes systematically
+   - Validate incrementally
+   - Document clearly
+   - Maintain stability
+
+4. **Knowledge Sharing**:
+   - Explain changes clearly
+   - Document assumptions
+   - Provide context
+   - Support learning
+
+---
+
+This rule set emphasizes the importance of systematic understanding and holistic problem-solving in AI-paired programming. It ensures that solutions consider the entire system context and maintain long-term maintainability and accessibility. 🚀

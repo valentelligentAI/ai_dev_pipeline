@@ -1,0 +1,25 @@
+graph TD
+    subgraph Setup
+        A[bootstrap.ps1] -->|env config| B[nodejs-validation.ps1]
+        B -->|validation results| C[environment-checker.ts]
+    end
+
+    subgraph Validation
+        C -->|environment state| D[environment-validator.ts]
+        D -->|metadata| E[store.ts]
+        E -->|type context| F[type-validator.ts]
+    end
+
+    subgraph Diagnostics
+        F -->|validation results| G[typescript-diagnostics.ts]
+        G -->|diagnostic data| H[test-generator.ts]
+    end
+
+    subgraph Testing
+        H -->|test cases| I[__tests__/*]
+        I -->|results| J[test results]
+    end
+
+    E -.->|metadata updates| F
+    G -.->|error feedback| F
+    J -.->|coverage data| H
